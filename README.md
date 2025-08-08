@@ -1,4 +1,5 @@
-[![https://mouad-elhadiri.github.io/MOUAD-SET-/](https://mouad-elhadiri.github.io/MOUAD-SET-/))](https://mouad-elhadiri.github.io/MOUAD-SET-/)
+[![](https://raw.githubusercontent.com/mouad-elhadiri/MOUAD-SET-/main/assets/profile.gif)](https://mouad-elhadiri.github.io/MOUAD-SET-/)
+
 <!-- Animated subtle wave header without تغيير الألوان الأساسية -->
 
 <div align="center" style="position: relative; overflow: hidden;">
