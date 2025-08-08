@@ -1,11 +1,6 @@
 ![Welcome Banner](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png)
 
-<p align="center">
-  <a href="https://mouad-elhadiri.github.io/MOUAD-SET-/">
-    <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/matrix.gif" alt="Matrix GIF" width="200" />
-  </a>
-</p>
-
+![MOUAD EL HADIRI](https://cdn.discordapp.com/attachments/1079136092994928641/1403506636533923850/2025-08-08_23-28-40.gif?ex=6897ccea&is=68967b6a&hm=f784d8e155503f47e4e2de56af4a3990b84fa89365bf302062472ac354f5da7a&)
 
 
 
