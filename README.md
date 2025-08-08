@@ -1,6 +1,6 @@
-![Welcome Banner](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png)
-
 [![](https://cdn.discordapp.com/attachments/1079136092994928641/1403506636533923850/2025-08-08_23-28-40.gif?ex=6897ccea&is=68967b6a&hm=f784d8e155503f47e4e2de56af4a3990b84fa89365bf302062472ac354f5da7a&)](https://mouad-elhadiri.github.io/MOUAD-SET-/)
+
+![Welcome Banner](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png)
 
 
 <!-- Animated subtle wave header without تغيير الألوان الأساسية -->
