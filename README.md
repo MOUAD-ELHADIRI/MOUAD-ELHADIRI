@@ -5,8 +5,8 @@
   <a href="https://www.instagram.com/mou_a2d/"><img src="https://img.shields.io/badge/@mou_a2d-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mouad-el-hadiri"><img src="https://img.shields.io/badge/Mouad%20El%20Hadiri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@mouad/videos"><img src="https://img.shields.io/badge/YouTube-Mouad-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://discord.gg/king_br9"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="[https://facebook.com/mouad](https://www.facebook.com/mo.d.391536?locale=ar_AR)"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://discord.gg/SG3ea8kMAG"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.facebook.com/mo.d.391536?locale=ar_AR"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
