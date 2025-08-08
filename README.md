@@ -1,4 +1,4 @@
-[![](https://mouad-elhadiri.github.io/MOUAD-SET-/)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+[![](https://mouad-elhadiri.github.io/MOUAD-SET-/)](https://mouad-elhadiri.github.io/MOUAD-SET-/)<!-- If you want the template for my gif, email me! -->
 <!-- Animated subtle wave header without تغيير الألوان الأساسية -->
 
 <div align="center" style="position: relative; overflow: hidden;">
