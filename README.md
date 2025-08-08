@@ -1,8 +1,11 @@
 ![Welcome Banner](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png)
 
-<p align="center" style="margin-top:-10px;">
-  [![](https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/matrix.gif)](https://mouad-elhadiri.github.io/MOUAD-SET-/)
+<p align="center">
+  <a href="https://mouad-elhadiri.github.io/MOUAD-SET-/">
+    <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/matrix.gif" alt="Matrix GIF" width="200" />
+  </a>
 </p>
+
 
 
 
