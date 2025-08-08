@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Ahmed Adel  👋</h1>
-<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
-
+<h1 align="center">Hi, I'm Mouad el Hadiri  👋</h1>
+<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of
 <p align="center">
   <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
