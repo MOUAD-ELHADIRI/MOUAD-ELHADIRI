@@ -17,30 +17,6 @@
 
 
 
-<div align="center" style="position: relative; overflow: hidden;">
-
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" preserveAspectRatio="none" style="width:100%; height:150px;">
-
-    <path fill="#02569B" opacity="0.08">
-
-      <animate attributeName="d" dur="6s" repeatCount="indefinite"
-
-        values="
-
-          M0,100 C150,80 350,120 600,90 C850,60 1050,120 1200,90 L1200,150 L0,150 Z;
-
-          M0,110 C180,130 360,60 600,100 C840,140 1020,60 1200,100 L1200,150 L0,150 Z;
-
-          M0,100 C150,80 350,120 600,90 C850,60 1050,120 1200,90 L1200,150 L0,150 Z"/>
-
-    </path>
-
-  </svg>
-
-</div>
-
-
-
 <h1 align="center">Hi, I'm Mouad El Hadiri 👋</h1>
 
 <h3 align="center">Flutter Developer 🧠 | Gamer 🎮 | Tech Enthusiast 🚀</h3>
