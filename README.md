@@ -21,7 +21,6 @@ M0,100 C150,80 350,120 600,90 C850,60 1050,120 1200,90 L1200,150 L0,150 Z"/>
 </svg>
 </div>
 
-<h1 align="center">Hi, I'm Mouad El Hadiri 👋</h1>
 
 <p align="center">
 <a href="https://www.instagram.com/mou_a2d/"><img src="https://img.shields.io/badge/@mou_a2d-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
