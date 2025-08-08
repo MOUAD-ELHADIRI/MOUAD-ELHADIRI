@@ -1,17 +1,18 @@
+<!-- Animated Gradient Background -->
+<img src="https://i.ibb.co/0j1G2WQ/flutter-bg.gif" width="100%"/>
+
 <h1 align="center">Hi, I'm Mouad El Hadiri 👋</h1>
 <h3 align="center">Flutter Developer 🧠 | Gamer 🎮 | Tech Enthusiast 🚀</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/mou_a2d/"><img src="https://img.shields.io/badge/@mou_a2d-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mouad-el-hadiri"><img src="https://img.shields.io/badge/Mouad%20El%20Hadiri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mou_a2d/"><img src="https://img.shields.io/badge/@mou_a2d-0175C2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mouad-el-hadiri"><img src="https://img.shields.io/badge/Mouad%20El%20Hadiri-02569B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@mouad/videos"><img src="https://img.shields.io/badge/YouTube-Mouad-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://discord.gg/SG3ea8kMAG"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.facebook.com/mo.d.391536?locale=ar_AR"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
-
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
 ## 🛠 Tech Stack
 
@@ -38,10 +39,10 @@
 
 ## 💬 Discord Projects
 
-[![](https://img.shields.io/badge/-🤖%20Discord%20Bot%20Manager-000?style=flat&logo=discord)](https://github.com/username/discord-bot-manager)
-[![](https://img.shields.io/badge/-🎵%20Music%20Bot-000?style=flat&logo=discord)](https://github.com/username/discord-music-bot)
-[![](https://img.shields.io/badge/-🛡%20Moderation%20Bot-000?style=flat&logo=discord)](https://github.com/username/discord-moderation-bot)
-[![](https://img.shields.io/badge/-📊%20Stats%20Tracker-000?style=flat&logo=discord)](https://github.com/username/discord-stats-tracker)
+[![](https://img.shields.io/badge/-🤖%20Discord%20Bot%20Manager-02569B?style=flat&logo=discord)](https://github.com/username/discord-bot-manager)
+[![](https://img.shields.io/badge/-🎵%20Music%20Bot-0175C2?style=flat&logo=discord)](https://github.com/username/discord-music-bot)
+[![](https://img.shields.io/badge/-🛡%20Moderation%20Bot-0A84FF?style=flat&logo=discord)](https://github.com/username/discord-moderation-bot)
+[![](https://img.shields.io/badge/-📊%20Stats%20Tracker-0099FF?style=flat&logo=discord)](https://github.com/username/discord-stats-tracker)
 
 ---
 
