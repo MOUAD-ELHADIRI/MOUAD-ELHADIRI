@@ -2,6 +2,7 @@
 
 <p align="center" style="margin-top:-10px; font-size: 30px; color: gold;">⭐</p>
 
+
 <!-- Animated subtle wave header without تغيير الألوان الأساسية -->
 
 <div align="center" style="position: relative; overflow: hidden;">
