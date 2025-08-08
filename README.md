@@ -1,3 +1,17 @@
+<!-- Animated subtle wave header without تغيير الألوان الأساسية -->
+
+<div align="center" style="position: relative; overflow: hidden;">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" preserveAspectRatio="none" style="width:100%; height:150px;">
+    <path fill="#02569B" opacity="0.08">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="
+          M0,100 C150,80 350,120 600,90 C850,60 1050,120 1200,90 L1200,150 L0,150 Z;
+          M0,110 C180,130 360,60 600,100 C840,140 1020,60 1200,100 L1200,150 L0,150 Z;
+          M0,100 C150,80 350,120 600,90 C850,60 1050,120 1200,90 L1200,150 L0,150 Z"/>
+    </path>
+  </svg>
+</div>
+
 <h1 align="center">Hi, I'm Mouad El Hadiri 👋</h1>
 <h3 align="center">Flutter Developer 🧠 | Gamer 🎮 | Tech Enthusiast 🚀</h3>
 
@@ -15,48 +29,43 @@
 
 ## 🛠 Tech Stack
 
-**Languages:**
-![Dart](https://img.shields.io/badge/-Dart-0175C2?&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
+**Languages:**  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?&logo=flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=000) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
 
-**Technologies & Tools:**
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code&logoColor=white)
+**Technologies & Tools:**  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=000) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-- 📱 **[My Flutter App](#)** — A modern Flutter app with clean architecture.
-- 🎮 **[Gaming Companion](#)** — Track your game stats and friends.
+- 📱 **[My Flutter App](#)** — A modern Flutter app with clean architecture.  
+- 🎮 **[Gaming Companion](#)** — Track your game stats and friends.  
 - 🌐 **[Portfolio Website](#)** — My personal portfolio built with Flutter Web.
 
 ---
 
 ## 💬 Discord Projects
 
-[![](https://img.shields.io/badge/-🤖%20Discord%20Bot%20Manager-000?style=flat&logo=discord)](https://github.com/username/discord-bot-manager)
-[![](https://img.shields.io/badge/-🎵%20Music%20Bot-000?style=flat&logo=discord)](https://github.com/username/discord-music-bot)
-[![](https://img.shields.io/badge/-🛡%20Moderation%20Bot-000?style=flat&logo=discord)](https://github.com/username/discord-moderation-bot)
+[![](https://img.shields.io/badge/-🤖%20Discord%20Bot%20Manager-000?style=flat&logo=discord)](https://github.com/username/discord-bot-manager)  
+[![](https://img.shields.io/badge/-🎵%20Music%20Bot-000?style=flat&logo=discord)](https://github.com/username/discord-music-bot)  
+[![](https://img.shields.io/badge/-🛡%20Moderation%20Bot-000?style=flat&logo=discord)](https://github.com/username/discord-moderation-bot)  
 [![](https://img.shields.io/badge/-📊%20Stats%20Tracker-000?style=flat&logo=discord)](https://github.com/username/discord-stats-tracker)
 
 ---
 
 ## 🎯 About Me
 
-- 🔭 I’m currently working on **Flutter mobile apps**
-- 🎮 Gamer in my free time (FPS, RPG, and more)
-- 🌱 Learning advanced **state management** in Flutter
+- 🔭 I’m currently working on **Flutter mobile apps**  
+- 🎮 Gamer in my free time (FPS, RPG, and more)  
+- 🌱 Learning advanced **state management** in Flutter  
 - 📫 Reach me at: **madalhadry016@gmail.com**
 
 ---
 
 ## 📊 GitHub Stats
 
-<a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mouad-El-Hadiri&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=tokyonight" /></a>
+<a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mouad-El-Hadiri&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=tokyonight" /></a>  
 <a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-El-Hadiri&layout=compact&langs_count=6&theme=tokyonight" /></a>
 
 
