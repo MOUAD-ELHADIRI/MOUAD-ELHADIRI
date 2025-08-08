@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://mouad-elhadiri.github.io/MOUAD-SET-/">
-<img src="https://cdn.discordapp.com/attachments/1079136092994928641/1403506636533923850/2025-08-08_23-28-40.gif?ex=6897ccea&is=68967b6a&hm=f784d8e155503f47e4e2de56af4a3990b84fa89365bf302062472ac354f5da7a&" alt="MOUAD EL HADIRI" style="width: 100%; height: auto; max-height: 100px;"/>
-</a>
+  <a href="https://mouad-elhadiri.github.io/MOUAD-SET-/">
+    <img src="https://cdn.discordapp.com/attachments/1079136092994928641/1403506636533923850/2025-08-08_23-28-40.gif?ex=6897ccea&is=68967b6a&hm=f784d8e155503f47e4e2de56af4a3990b84fa89365bf302062472ac354f5da7a&" alt="MOUAD EL HADIRI" style="width: 100%; height: auto;    max-height: 100px;"/>
+  </a>
 </div>
 
 <div align="center">
@@ -14,6 +14,30 @@
 
 
 <!-- Animated subtle wave header without تغيير الألوان الأساسية -->
+
+
+
+<div align="center" style="position: relative; overflow: hidden;">
+
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" preserveAspectRatio="none" style="width:100%; height:150px;">
+
+    <path fill="#02569B" opacity="0.08">
+
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+
+        values="
+
+          M0,100 C150,80 350,120 600,90 C850,60 1050,120 1200,90 L1200,150 L0,150 Z;
+
+          M0,110 C180,130 360,60 600,100 C840,140 1020,60 1200,100 L1200,150 L0,150 Z;
+
+          M0,100 C150,80 350,120 600,90 C850,60 1050,120 1200,90 L1200,150 L0,150 Z"/>
+
+    </path>
+
+  </svg>
+
+</div>
 
 
 
