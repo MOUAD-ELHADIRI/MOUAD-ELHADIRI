@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://mouad-elhadiri.github.io/MOUAD-SET-/">
+<a href="https://mouad-elhadiri.github.io/MOUAD-WEB/">
 <img src="https://cdn.discordapp.com/attachments/1079136092994928641/1403506636533923850/2025-08-08_23-28-40.gif?ex=6897ccea&is=68967b6a&hm=f784d8e155503f47e4e2de56af4a3990b84fa89365bf302062472ac354f5da7a&" alt="MOUAD EL HADIRI" style="width: 100%; height: auto; max-height: 100px;"/>
 </a>
 </div>
